@@ -7,10 +7,12 @@ namespace DigitalBag
 {
     class Account
     {
-        public string Number { get; set; }
-        public string Owner { get; set; }
-        public decimal Balance { get; set; }
-        public DateTime Created { get; set; }
+        public string Number { get; }
+        public string Owner { get; }
+        public decimal Balance { get; }
+        public DateTime Created { get; }
+
+        private List<Transaction> transactions = new List<Transaction>();
 
         public Account(string owner, decimal balance)
         {
