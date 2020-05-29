@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace DigitalBag
+namespace DigitalBank
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Welcome To ZipPal Digital Bank!");
         }
     }
+
+
 }
