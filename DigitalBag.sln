@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBag", "DigitalBag.csproj", "{BD2DC98C-DE4A-454E-8066-DD342A03283A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2DC98C-DE4A-454E-8066-DD342A03283A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2DC98C-DE4A-454E-8066-DD342A03283A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2DC98C-DE4A-454E-8066-DD342A03283A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2DC98C-DE4A-454E-8066-DD342A03283A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0078E3EF-A6BD-46BB-A461-D8B71AB25A6D}
+	EndGlobalSection
+EndGlobal
